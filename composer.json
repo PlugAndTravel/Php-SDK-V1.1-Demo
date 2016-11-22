@@ -1,0 +1,11 @@
+{
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/PlugAndTravel/Php-SDK-V1.1.git"
+		}
+	],
+	"require": {
+		"PlugAndTravel/Php-SDK-V1.1": "*@dev"
+	}
+}
